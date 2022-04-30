@@ -1,0 +1,16 @@
+
+----------------------------------------------------------------------
+compile scripts that compile code  background 
+first package is being mined 
+validating blocks as solutions with one until it finds the  right block 
+time solution mining 
+energy intense 
+then validating 
+the transaction for the chain  on the console
+chain oncosits of pre blocks 
+wallets for each person to mine blocks 
+---------------------------------------------------------------------
+blocks confirmed to check 
+miner find solution of information sent out to the  nodes on the netowrk
+order of block of coins mining 
+------------------------------------------------------------------------

@@ -1,0 +1,77 @@
+
+-----------------------------------------------------------------------------------------
+npm run start
+start of commands
+---------------------
+php chode sniffers 
+modify that set up authentication 
+hook caeive baisc aut plugins
+comapoent of the server 
+calls requiest 
+global netowrk json 
+script codes for server 
+server single instance rest server also fell to use 
+cli tool thin layer on 
+endpoints 
+hd https request server insalnce 
+variables and request 
+push super reqest 
+stuff to kind of mix 
+api fiels pushed into single array essestioally you can alo that
+error code 
+api locate it load up rest pass 
+send route load commart 
+regsitered roots 
+-------------------------------------------------------------------
+http request plugins - network plugins - game plugins music plugins 
+on the main server to host for what you need in sections 
+
+php level 
+
+response to ther error 
+api logic on top of it built on erverthing else
+controller for object
+idea is implement as much 
+-------------------------------------------------------------------------------------------------
+request passed stuff data reutrn callback 
+implete persmmisions api abtrack lvels
+call back 
+pull commisioners check sepeatrly split code 
+option s wordpress api do call permiissions route diff types 
+allow us to post unaitchicate allwayed header only admisdeterator 
+------------------------------------
+prepare for database post php object 
+collections quite alike  
+pagination side of things 
+metadata 
+object json data item 
+----------------------------------------------------------------------------------
+context 
+-------------------------------------------------------------------
+user object wont return email field because there email 
+view details credit edit means
+object 
+all the data wit it 
+pull back api contexts 
+provdide object docutmemntation 
+schema for a post oecjt would be destrscription 
+value array id 
+json 
+standrad were using look client use that validation 
+sombody post author 
+providing internally 
+cleint scheme
+terms controller 
+vlaue 
+scheme api 
+controolller of topology sell topologys of a network 
+feidlds sub alsess complex things like wordpress 
+add plugins resposnes 
+caleld regiester api firld 
+keyword options like get call back reqguest 
+-------------------------------------------------------------------
+object herer prettry easily rather because we dont really ecnrouge people 
+rnaodmy remove expection double p posts has a underscore conettnt 
+----------------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=mVsGoy7ND3M
